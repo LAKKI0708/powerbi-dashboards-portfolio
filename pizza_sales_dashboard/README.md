@@ -9,7 +9,8 @@ This Power BI dashboard analyzes pizza sales data across different categories, s
 - Top 5 best-selling pizzas
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](pizza_sales_dashboard/pizzasales_dashboard_img.png)
+![pizzasales_dashboard_img](https://github.com/user-attachments/assets/c044553a-3f34-4596-a432-5d8cad3c5538)
+
 
 ## 📂 Files Included
 - `Pizza_Sales_Dashboard.pbix` – Power BI dashboard file
